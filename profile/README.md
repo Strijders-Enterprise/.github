@@ -1,4 +1,4 @@
-# Welcome to Data Fluent
+# Welcome to Strijders Enterprise
 
 This is our organization's github account.
 
@@ -6,12 +6,6 @@ This is our organization's github account.
 ## Repos
 
 Main project
-- The core app project that is being used by payed customers
+- Containing the discord bot and the api to trade
 
-Chrome extension
-- The df chrome extension customers need for the interactivity in the creation of the scraper UI
-
-Main website
-- The main websie people can visit on [datafluent.app](https://datafluent.app/)
-- Uses the mui minimal theme like the frontend of the main project
 
